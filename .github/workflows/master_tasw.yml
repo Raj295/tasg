@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'tasw'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1d37a487506c424cafd7b4273bd3c00b }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b618add401d64ac7a99fab057ed1c859 }}
         package: .
